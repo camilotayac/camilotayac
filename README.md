@@ -15,9 +15,8 @@
 
 ## Lenguajes y herramientas que manejo 
 
-- Bash
-- Python
-- Gromacs
+![Bash](https://icons8.es/icon/50ZQHdJTmPqw/intento)  ![Python](https://iconos8.es/icon/W3gfKnMhfM6h/python)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
