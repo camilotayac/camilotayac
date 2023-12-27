@@ -3,8 +3,8 @@
 </div>
 <img src="https://i.imgur.com/CasOB6k.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@tyac_divulger)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/camilotayac)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChuntQk8qvrRww9QnfdsFGA)
+![GitHub followers](https://img.shields.io/github/followers/camilotayac)
 
 ## Sobre mi
 
