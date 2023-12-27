@@ -15,7 +15,7 @@
 
 ## Lenguajes y herramientas que manejo 
 
-![Bash](https://icons8.es/icon/50ZQHdJTmPqw/intento)  ![Python](https://iconos8.es/icon/W3gfKnMhfM6h/python)
+![Bash](https://i.imgur.com/GgrY2Yv.png)  ![Python](https://i.imgur.com/GgrY2Yv.png)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
