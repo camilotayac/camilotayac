@@ -8,11 +8,16 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
 - ⚗️ Docente de química
 - 💻 Químico computacional
 - 🎥 Te enseño sobre química y computacion [Youtube](https://www.youtube.com/@tyac_divulger)
 <br>
+
+## Lenguajes y herramientas que manejo 
+
+- Bash
+- Python
+- Gromacs
 
 ### ⚙️ &nbsp;GitHub Analytics
 
