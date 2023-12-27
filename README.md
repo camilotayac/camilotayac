@@ -14,7 +14,6 @@
 - 🎥 Te enseño sobre química y computacion [Youtube](https://www.youtube.com/@tyac_divulger)
 <br>
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
