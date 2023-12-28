@@ -1,9 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Tyac 👋</h1>
 </div>
-
-![Texto_alternativo](https://i.imgur.com/0cMjBow.gif)
-
+![Green and Black Geometric Techno Technology YouTube Banner (Post para Facebook) (1)](https://github.com/camilotayac/camilotayac/assets/74197522/eb8c0396-4329-4381-abae-a744e3a143b3)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChuntQk8qvrRww9QnfdsFGA)
 ![GitHub followers](https://img.shields.io/github/followers/camilotayac?logo=github&logoColor=black&labelColor=%238dc29b&color=%236a9174)
