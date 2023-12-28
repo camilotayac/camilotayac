@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Tyac 👋</h1>
 </div>
 <blockquote class="imgur-embed-pub" lang="en" data-id="0cMjBow"><a href="https://imgur.com/0cMjBow">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+[Imgur](https://imgur.com/0cMjBow)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChuntQk8qvrRww9QnfdsFGA)
 ![GitHub followers](https://img.shields.io/github/followers/camilotayac)
 
