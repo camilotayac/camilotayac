@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Tyac 👋</h1>
 </div>
+<img src="portada.gif" alt="Texto_alternativo">
 
-![Texto_alternativo](portada.gif)
 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChuntQk8qvrRww9QnfdsFGA)
