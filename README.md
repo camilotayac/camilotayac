@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy Tyac 👋</h1>
 </div>
-<a href="https://imgur.com/2Yr5Vt3"><img src="https://i.imgur.com/2Yr5Vt3.gif" title="source: imgur.com" /></a>
+<img align="right" alt="GIF" src="https://i.imgur.com/2Yr5Vt3.gifv?raw=true">
+
+<img align="right" alt="GIF" src="https://i.imgur.com/2Yr5Vt3.gifv">
+
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChuntQk8qvrRww9QnfdsFGA)
 ![GitHub followers](https://img.shields.io/github/followers/camilotayac?logo=github&logoColor=black&labelColor=%238dc29b&color=%236a9174)
