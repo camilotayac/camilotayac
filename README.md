@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Tyac 👋</h1>
 </div>
-
-[![Texto_alternativo](https://imgur.com/0cMjBow)](https://imgur.com/0cMjBow)
+[img]https://i.imgur.com/0cMjBow.gif[/img]
 
 
 
