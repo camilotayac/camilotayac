@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center">Hola, soy <strong>Tyac</strong> 👋</h1>
-<img src="portada.gif" alt="Texto_alternativo" autoplay="true">
 </div>
 
 ![Portada](portada.gif)
