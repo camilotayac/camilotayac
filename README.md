@@ -6,7 +6,8 @@
 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChuntQk8qvrRww9QnfdsFGA)
-![GitHub followers](https://img.shields.io/github/followers/camilotayac)
+![GitHub followers](https://img.shields.io/github/followers/camilotayac?logo=github)
+
 
 ## Sobre mi
 
