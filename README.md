@@ -3,6 +3,7 @@
 <img src="portada.gif" alt="Texto_alternativo" autoplay="true">
 </div>
 
+![Portada](portada.gif)
 
 
 
@@ -12,23 +13,23 @@
 
 
 
-## Sobre mi
+## 👻 Sobre mi
 
 - ⚗️ Docente de química
 - 💻 Químico computacional
 - 🎥 Te enseño sobre química y computacion [Youtube](https://www.youtube.com/@tyac_divulger)
 <br>
 
-## Lenguajes y herramientas que manejo 
+## 👻 Lenguajes y herramientas que manejo 
 
 ![Bash](https://i.imgur.com/Esvlc01.png)  ![Python](https://i.imgur.com/6yUYRMZ.png) ![Gromacs](https://i.imgur.com/IZPAF5D.png)
 ![Texto_alternativo](https://i.imgur.com/0cMjBow.gif)
 
-## Analítica de GitHub
+## 👻 Analítica de GitHub
 
 <p align="center">
 <a href="https://github.com/camilotayac">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=camilotayac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=camilotayac&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=camilotayac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=camilotayac&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
