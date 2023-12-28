@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Tyac 👋</h1>
 </div>
-<img src="https://i.imgur.com/0cMjBow.gif" alt="Descripción del GIF">
 
-[ada](https://i.imgur.com/0cMjBow.gif)
+![Texto_alternativo](https://i.imgur.com/0cMjBow.gif)
+
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChuntQk8qvrRww9QnfdsFGA)
 ![GitHub followers](https://img.shields.io/github/followers/camilotayac)
