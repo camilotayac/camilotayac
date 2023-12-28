@@ -2,11 +2,7 @@
 <h1 align="center">Hola, soy Tyac 👋</h1>
 </div>
 
-<video width="100%" height="auto" autoplay loop muted>
-  <source src="https://i.imgur.com/3Oyh2Hm.gif" type="video/gif">
-  Tu navegador no soporta el elemento de video.
-</video>
-
+[img]https://i.imgur.com/3Oyh2Hm.gif[/img]
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChuntQk8qvrRww9QnfdsFGA)
 ![GitHub followers](https://img.shields.io/github/followers/camilotayac?logo=github&logoColor=black&labelColor=%238dc29b&color=%236a9174)
