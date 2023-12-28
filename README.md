@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/0cMjBow.gif">
 
-![ada](https://i.imgur.com/0cMjBow.gif)
+[ada](https://i.imgur.com/0cMjBow.gif)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChuntQk8qvrRww9QnfdsFGA)
 ![GitHub followers](https://img.shields.io/github/followers/camilotayac)
