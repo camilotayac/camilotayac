@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Tyac 👋</h1>
 </div>
-<img src="https://i.imgur.com/0cMjBow.gif">
+<img src="https://i.imgur.com/0cMjBow.gif" alt="Descripción del GIF">
 
 [ada](https://i.imgur.com/0cMjBow.gif)
 
