@@ -18,7 +18,7 @@
 ## Lenguajes y herramientas que manejo 
 
 ![Bash](https://i.imgur.com/Esvlc01.png)  ![Python](https://i.imgur.com/6yUYRMZ.png) ![Gromacs](https://i.imgur.com/IZPAF5D.png)
-
+![Texto_alternativo](https://i.imgur.com/0cMjBow.gif)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
