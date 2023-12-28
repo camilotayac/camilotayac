@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Tyac 👋</h1>
 </div>
-<img align="right" alt="GIF" src="https://i.imgur.com/2Yr5Vt3.gifv?raw=true">
+<img src="https://i.imgur.com/2Yr5Vt3.gifv?raw=true">
 
-<img align="right" alt="GIF" src="https://i.imgur.com/2Yr5Vt3.gifv">
+<img src="https://i.imgur.com/2Yr5Vt3.gifv">
 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChuntQk8qvrRww9QnfdsFGA)
